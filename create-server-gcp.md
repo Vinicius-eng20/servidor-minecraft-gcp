@@ -21,7 +21,7 @@ Se preferir não seguir o guia manual, use o script `create-server.sh` para cria
 
 ```bash
 # Baixar o script
-wget https://raw.githubusercontent.com/Vinicius-eng20/servidor-minecraft-gcp/main/create-server.sh
+wget https://raw.githubusercontent.com/vinicius-eng20/servidor-minecraft-gcp/main/create-server.sh
 
 # Dar permissão e executar
 chmod +x create-server.sh && ./create-server.sh

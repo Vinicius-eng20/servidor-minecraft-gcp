@@ -3,7 +3,7 @@
 #  create-server.sh — Instalação automática de servidor Minecraft no GCP
 #  Compatível com: Windows (Git Bash / WSL), macOS, Linux
 #  Uso:
-#    wget https://raw.githubusercontent.com/Vinicius-eng20/servidor-minecraft-gcp/main/create-server.sh
+#    wget https://raw.githubusercontent.com/vinicius-eng20/servidor-minecraft-gcp/main/create-server.sh
 #    chmod +x create-server.sh && ./create-server.sh
 # =============================================================================
 
